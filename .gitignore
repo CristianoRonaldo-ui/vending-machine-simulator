@@ -1,0 +1,8 @@
+# Compiled Java bytecode
+*.class
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
